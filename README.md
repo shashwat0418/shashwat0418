@@ -1,5 +1,5 @@
 - 👋 Hi,I'm shashwat mishra 
-- 👀 I’m interested in Web Desining / Product marketing 
+- 👀 I’m interested in Web Designing / Product marketing 
 - 🌱 I’m currently learning Block Chain / Cyber security
 
 <!---
