@@ -1,6 +1,6 @@
 - 👋 Hi,I'm shashwat mishra 
-- 👀 I’m interested in Web Designing / Product marketing 
-- 🌱 I’m currently learning Block Chain / Cyber security
+- 👀 I’m interested in Web Designing / IOS Applications Devlopment
+- 🌱 I’m currently learning System Design / DSA
 
 <!---
 shashwat0418/shashwat0418 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
